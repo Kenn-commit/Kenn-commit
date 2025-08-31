@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Atueyi Kennedy 👋
 
-<!--
-**Kenn-commit/Kenn-commit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me 🚀
+
+I'm a passionate Junoir Web Developer  with experience in HTML,CSS,JAVASCRIPT. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+
+- 🌱 Currently learning: at ALx SE
+- 🌍 Languages: HTML,CSS,JAVASCRIPT,ENGLISH and BASIC SPANISH
+- 📫 How to reach me: trice8057@gmail.com
+- ⚡ Fun fact: Enjoy learning New things 👌😉
+
+## Get in Touch 📬
+
+- **[Twitter]** https://x.com/Kenn_commit?t=DaHlc3_mDXryDxtIy7RQQw&s=09
+
+
